@@ -1,0 +1,6 @@
+c:\users\arife\documents\visual studio 2013\Projects\Algorithms\Algorithms\bin\Debug\Algorithms.exe.config
+c:\users\arife\documents\visual studio 2013\Projects\Algorithms\Algorithms\bin\Debug\Algorithms.exe
+c:\users\arife\documents\visual studio 2013\Projects\Algorithms\Algorithms\bin\Debug\Algorithms.pdb
+c:\users\arife\documents\visual studio 2013\Projects\Algorithms\Algorithms\obj\Debug\Algorithms.csprojResolveAssemblyReference.cache
+c:\users\arife\documents\visual studio 2013\Projects\Algorithms\Algorithms\obj\Debug\Algorithms.exe
+c:\users\arife\documents\visual studio 2013\Projects\Algorithms\Algorithms\obj\Debug\Algorithms.pdb
